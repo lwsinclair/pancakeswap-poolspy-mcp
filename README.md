@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-pancakeswap-poolspy-mcp-badge.png)](https://mseep.ai/app/kukapay-pancakeswap-poolspy-mcp)
+
 # PancakeSwap PoolSpy MCP Server
 
 An MCP server that tracks newly created liquidity pools on Pancake Swap, providing real-time data for DeFi analysts, traders, and developers.
